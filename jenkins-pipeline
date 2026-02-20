@@ -1,3 +1,4 @@
+# Create a Jenkins pipeline to deploy application on kubernetes
 pipeline{
     agent any
     tools{
