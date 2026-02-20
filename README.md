@@ -19,13 +19,16 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+
+  <img src="assets/home-page.png" width="100%">
   <p align="center">Home Page</p>
-  <img src="./public/assets/detail-modal.png" alt="Logo" width="100%" height="100%">
+
+  <img src="assets/detail-modal.png" width="100%">
   <p align="center">Detail Modal</p>
-  <img src="./public/assets/grid-genre.png" alt="Logo" width="100%" height="100%">
+
+  <img src="assets/grid-genre.png" width="100%">
   <p align="center">Grid Genre Page</p>
-  
+
 </div>
 
 ## Prerequests
