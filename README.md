@@ -44,9 +44,5 @@ This project demonstrates a complete DevSecOps pipeline using Jenkins, SonarQube
 
 ### Step 12 — Provision AWS EKS using Terraform
 
-## 🏗️ Architecture Diagram
-
-![Architecture](architecture.png)
-
 ### Step 13 — Access Application in Browser
 
