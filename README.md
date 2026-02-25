@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img src="assets/architecture.png" width="100%">
+  <img src="assets/architecture.gif" width="100%">
   <p align="center">Architecture</p>
 
   <img src="assets/home-page.png" width="100%">
