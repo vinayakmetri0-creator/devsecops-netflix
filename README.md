@@ -20,6 +20,9 @@
 
 <div align="center">
 
+  <img src="assets/deployed-video.mp4" width="100%">
+  <p align="center">Netflix Project Deployed</p>
+
   <img src="assets/architecture.gif" width="100%">
   <p align="center">Architecture</p>
 
